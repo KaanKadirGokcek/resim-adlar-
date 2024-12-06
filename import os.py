@@ -1,8 +1,8 @@
 import csv
 import os
 
-csv_dosya1 = "/Users/kaangokcek/Desktop/dosya_listesi_2.csv"
-csv_dosya2 = "/Users/kaangokcek/Desktop/dosya_listesi.csv"
+csv_dosya1 = "/your/folder/path"
+csv_dosya2 = "/your/folder/path"
 
 # CSV dosyalarını oku ve uzantıları kaldırarak isimleri bir küme olarak dön
 def csv_dosyasini_oku_ve_duzenle(dosya_yolu):
